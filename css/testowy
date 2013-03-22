@@ -1,0 +1,4 @@
+#Navbar {
+	position:fixed;
+	background-color: #262A2D; 
+}
